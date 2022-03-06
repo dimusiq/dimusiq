@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
 <img src="https://img.icons8.com/officel/40/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img src="https://img.icons8.com/color/48/000000/graphql.png"/>
+<img src="https://img.icons8.com/color/48/000000/graphql.png"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
 
 
