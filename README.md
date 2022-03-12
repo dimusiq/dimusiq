@@ -9,10 +9,12 @@ dimusiq/dimusiq is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="48" src= "https://cdn.icon-icons.com/icons2/2699/PNG/512/pugjs_logo_icon_170825.png"/>
+<img src="https://img.icons8.com/color/48/000000/sass.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
 <img src="https://img.icons8.com/officel/40/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img src="https://img.icons8.com/color/48/000000/graphql.png"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
+<img src="https://img.icons8.com/color/48/000000/graphql.png"/> <img src="https://img.icons8.com/color/48/000000/apollo.png"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
+<img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
 
